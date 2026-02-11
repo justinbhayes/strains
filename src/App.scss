@@ -1,0 +1,34 @@
+.App-header {
+  background-color: #1f291a;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+
+  h1 {
+    color: white;
+    text-align: center;
+  }
+}
+.App-logo {
+  height: 150px;
+  pointer-events: none;
+}
+main {
+  background-color: white;
+  padding: 40px 20px;
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+
+  h2 {
+    font-size: 1.4em;
+    text-align: center;
+  }
+  p {
+    white-space: pre-wrap;
+  }
+}
