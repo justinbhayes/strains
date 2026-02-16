@@ -1,5 +1,6 @@
 {
   "headline": "Are you looking for:",
+  "description": "THC: is the primary psychoactive compound in cannabis, responsible for the high by acting on the brain's cannabinoid receptors.\nCBD: is widely considered a non-intoxicating, therapeutic compound derived from hemp that does not produce the high associated with THC.",
   "children": [
     {
       "label": "THC (Psychoactive)",
@@ -8,12 +9,12 @@
         {
           "label": "Recreation",
           "headline": "Do you prefer to Eat or Smoke a product?",
-          "description": "Eat = Gummys, Baked Goods and Beverages.\nSmoke = Carts, Disposables, Flower and Prerolls.",
+          "description": "Eat: Gummys, Baked Goods and Beverages.\nSmoke: Carts, Disposables, Flower and Prerolls.",
           "children": [
             {
               "label": "Eat",
               "headline": "Edible Products:",
-              "description": "Gummy = Cannabis gummy products are defined as edible, chewable confections infused with cannabis.\nBaked Goods = Cannabis baked goods are defined as edible products such as Chocolate Bars, Chocolate Covered Oreos, Cookies, Popcorn, Pretzels, Puppy Chow and Toffee infused with cannabis.\nBeverage = Cannabis beverage products are liquids, such as seltzers, sodas, teas, or shooters, infused with cannabis.",
+              "description": "Gummy: Cannabis gummy products are defined as edible, chewable confections infused with cannabis.\nBaked Goods: Cannabis baked goods are defined as edible products such as Chocolate Bars, Chocolate Covered Oreos, Cookies, Popcorn, Pretzels, Puppy Chow and Toffee infused with cannabis.\nBeverage: Cannabis beverage products are liquids, such as seltzers, sodas, teas, or shooters, infused with cannabis.",
               "children": [
                 {
                   "label": "Gummy",
@@ -37,7 +38,7 @@
                 {
                   "label": "Beverage",
                   "headline": "Do you prefer 5MG per can, 10MG Per can or a shooter?",
-                  "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.\nShooter = Cannabis shooter products are defined as small, concentrated, ready-to-drink beverages infused with cannabis.",
+                  "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.\nShooter: Cannabis shooter products are defined as small, concentrated, ready-to-drink beverages infused with cannabis.",
                   "children": [
                     {
                       "label": "5MG Beverage",
@@ -58,12 +59,12 @@
             {
               "label": "Smoke",
               "headline": "Smokable Products:",
-              "description": "Cart = Is a small glass tube containing oil of the plant's active medicinal ingredients.  The cartridge attaches to a vape pen.\nDisposable = Disposable vapes are single-use devices that come pre-filled with cannabis extract.\nFlower = Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
+              "description": "Cart: Is a small glass tube containing oil of the plant's active medicinal ingredients.  The cartridge attaches to a vape pen.\nDisposable: Disposable vapes are single-use devices that come pre-filled with cannabis extract.\nFlower: Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
               "children": [
                 {
                   "label": "Cart",
                   "headline": "Cart Products:",
-                  "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                  "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                   "children": [
                     {
                       "label": "Indica",
@@ -82,7 +83,7 @@
                 {
                   "label": "Disposable",
                   "headline": "Disposable Products:",
-                  "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                  "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                   "children": [
                     {
                       "label": "Indica",
@@ -101,42 +102,73 @@
                 {
                   "label": "Flower",
                   "headline": "Preroll or Flower?",
-                  "description": "Preroll = Cannabis pre-rolls are, by definition, pre-packaged, ready-to-smoke joints or blunts prepared by dispensaries or cultivators, containing ground cannabis flower in papers with a filter tip.\nFlower = Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
+                  "description": "Preroll: Cannabis pre-rolls are, by definition, pre-packaged, ready-to-smoke joints or blunts prepared by dispensaries or cultivators, containing ground cannabis flower in papers with a filter tip.\nFlower: Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
                   "children": [
                     {
                       "label": "Preroll",
                       "headline": "Preroll Products:",
-                      "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                      "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                       "children": [
                         {
                           "label": "Indica",
-                          "url": "https://strainsoftheearth.com/shop/search/?q=preroll&order=-inserted_at"
+                          "url": ""
+                        },
+                        {
+                          "label": "Hybrid",
+                          "url": ""
+                        },
+                        {
+                          "label": "Sativa",
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Sativa"
                         }
                       ]
                     },
                     {
                       "label": "Flower",
-                      "headline": "3.5 Gram or 7 Grams?",
+                      "headline": "3.5 Grams, 4 Grams, 7 Grams or 14 Grams?",
                       "children": [
                         {
                           "label": "3.5 Grams",
-                          "headline": "3.5 Grams Products:",
-                          "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "headline": "3.5 Gram Products:",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                           "children": [
                             {
                               "label": "Indica",
                               "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Indica%2CIndica+Dominant"
                             },
                             {
+                              "label": "Hybrid",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Hybrid"
+                            },
+                            {
                               "label": "Sativa",
-                              "url": "https://strainsoftheearth.com/shop/products/native-cuts-676251/thc-flower/nc-flower-35g-butters-7399150/?order=-inserted_at=-inserted_at"
+                              "url": ""
+                            }
+                          ]
+                        },
+                        {
+                          "label": "4 Grams",
+                          "headline": "4 Gram Products:",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "children": [
+                            {
+                              "label": "Indica",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Indica"
+                            },
+                            {
+                              "label": "Hybrid",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Hybrid"
+                            },
+                            {
+                              "label": "Sativa",
+                              "url": ""
                             }
                           ]
                         },
                         {
                           "label": "7 Grams",
-                          "headline": "7 Grams Products:",
-                          "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "headline": "7 Gram Products:",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                           "children": [
                             {
                               "label": "Indica",
@@ -145,6 +177,29 @@
                             {
                               "label": "Hybrid",
                               "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=7gram&type=Hybrid"
+                            },
+                            {
+                              "label": "Sativa",
+                              "url": ""
+                            }
+                          ]
+                        },
+                        {
+                          "label": "14 Grams",
+                          "headline": "14 Gram Products:",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "children": [
+                            {
+                              "label": "Indica",
+                              "url": ""
+                            },
+                            {
+                              "label": "Hybrid",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Hybrid"
+                            },
+                            {
+                              "label": "Sativa",
+                              "url": ""
                             }
                           ]
                         }
@@ -163,7 +218,7 @@
             {
               "label": "Muscle",
               "headline": "Do you prefer a Topical, to Eat or Smoke a product?",
-              "description": "Topical = (THC/CBD) lotions, creams, salves, balms, and sprays designed for direct application to the skin to provide localized relief for pain, inflammation, and skin conditions. They act on skin cannabinoid receptors, typically without entering the bloodstream or inducing psychoactive effects.\nEat = Gummys, Baked Goods and Beverages.\nSmoke = Carts, Disposables, Flower and Prerolls.",
+              "description": "Topical: (THC/CBD) lotions, creams, salves, balms, and sprays designed for direct application to the skin to provide localized relief for pain, inflammation, and skin conditions. They act on skin cannabinoid receptors, typically without entering the bloodstream or inducing psychoactive effects.\nEat: Gummys, Baked Goods and Beverages.\nSmoke: Carts, Disposables, Flower and Prerolls.",
               "children": [
                 {
                   "label": "Topical",
@@ -172,7 +227,7 @@
                 {
                   "label": "Eat",
                   "headline": "Edible Products:",
-                  "description": "Gummy = Cannabis gummy products are defined as edible, chewable confections infused with cannabis.\nBaked Goods = Cannabis baked goods are defined as edible products such as Chocolate Bars, Chocolate Covered Oreos, Cookies, Popcorn, Pretzels, Puppy Chow and Toffee infused with cannabis.\nBeverage = Cannabis beverage products are liquids, such as seltzers, sodas, teas, or shooters, infused with cannabis.",
+                  "description": "Gummy: Cannabis gummy products are defined as edible, chewable confections infused with cannabis.\nBaked Goods: Cannabis baked goods are defined as edible products such as Chocolate Bars, Chocolate Covered Oreos, Cookies, Popcorn, Pretzels, Puppy Chow and Toffee infused with cannabis.\nBeverage: Cannabis beverage products are liquids, such as seltzers, sodas, teas, or shooters, infused with cannabis.",
                   "children": [
                     {
                       "label": "Gummy",
@@ -196,7 +251,7 @@
                     {
                       "label": "Beverage",
                       "headline": "Do you prefer 5MG per can, 10MG Per can or a shooter?",
-                      "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.\nShooter = Cannabis shooter products are defined as small, concentrated, ready-to-drink beverages infused with cannabis.",
+                      "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.\nShooter: Cannabis shooter products are defined as small, concentrated, ready-to-drink beverages infused with cannabis.",
                       "children": [
                         {
                           "label": "5MG Beverage",
@@ -217,12 +272,12 @@
                 {
                   "label": "Smoke",
                   "headline": "Smokable Products:",
-                  "description": "Cart = Is a small glass tube containing oil of the plant's active medicinal ingredients.  The cartridge attaches to a vape pen.\nDisposable = Disposable vapes are single-use devices that come pre-filled with cannabis extract.\nFlower = Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
+                  "description": "Cart: Is a small glass tube containing oil of the plant's active medicinal ingredients.  The cartridge attaches to a vape pen.\nDisposable: Disposable vapes are single-use devices that come pre-filled with cannabis extract.\nFlower: Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
                   "children": [
                     {
                       "label": "Cart",
                       "headline": "Cart Products:",
-                      "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                      "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                       "children": [
                         {
                           "label": "Indica",
@@ -241,7 +296,7 @@
                     {
                       "label": "Disposable",
                       "headline": "Disposable Products:",
-                      "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                      "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                       "children": [
                         {
                           "label": "Indica",
@@ -260,42 +315,73 @@
                     {
                       "label": "Flower",
                       "headline": "Preroll or Flower?",
-                      "description": "Preroll = Cannabis pre-rolls are, by definition, pre-packaged, ready-to-smoke joints or blunts prepared by dispensaries or cultivators, containing ground cannabis flower in papers with a filter tip.\nFlower = Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
+                      "description": "Preroll: Cannabis pre-rolls are, by definition, pre-packaged, ready-to-smoke joints or blunts prepared by dispensaries or cultivators, containing ground cannabis flower in papers with a filter tip.\nFlower: Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
                       "children": [
                         {
                           "label": "Preroll",
                           "headline": "Preroll Products:",
-                          "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                           "children": [
                             {
                               "label": "Indica",
-                              "url": "https://strainsoftheearth.com/shop/search/?q=preroll&order=-inserted_at"
+                              "url": ""
+                            },
+                            {
+                              "label": "Hybrid",
+                              "url": ""
+                            },
+                            {
+                              "label": "Sativa",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Sativa"
                             }
                           ]
                         },
                         {
                           "label": "Flower",
-                          "headline": "3.5 Gram or 7 Grams?",
+                          "headline": "3.5 Grams, 4 Grams, 7 Grams or 14 Grams?",
                           "children": [
                             {
                               "label": "3.5 Grams",
-                              "headline": "3.5 Grams Products:",
-                              "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                              "headline": "3.5 Gram Products:",
+                              "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                               "children": [
                                 {
                                   "label": "Indica",
                                   "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Indica%2CIndica+Dominant"
                                 },
                                 {
+                                  "label": "Hybrid",
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Hybrid"
+                                },
+                                {
                                   "label": "Sativa",
-                                  "url": "https://strainsoftheearth.com/shop/products/native-cuts-676251/thc-flower/nc-flower-35g-butters-7399150/?order=-inserted_at=-inserted_at"
+                                  "url": ""
+                                }
+                              ]
+                            },
+                            {
+                              "label": "4 Grams",
+                              "headline": "4 Gram Products:",
+                              "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                              "children": [
+                                {
+                                  "label": "Indica",
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Indica"
+                                },
+                                {
+                                  "label": "Hybrid",
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Hybrid"
+                                },
+                                {
+                                  "label": "Sativa",
+                                  "url": ""
                                 }
                               ]
                             },
                             {
                               "label": "7 Grams",
-                              "headline": "7 Grams Products:",
-                              "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                              "headline": "7 Gram Products:",
+                              "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                               "children": [
                                 {
                                   "label": "Indica",
@@ -304,6 +390,29 @@
                                 {
                                   "label": "Hybrid",
                                   "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=7gram&type=Hybrid"
+                                },
+                                {
+                                  "label": "Sativa",
+                                  "url": ""
+                                }
+                              ]
+                            },
+                            {
+                              "label": "14 Grams",
+                              "headline": "14 Gram Products:",
+                              "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                              "children": [
+                                {
+                                  "label": "Indica",
+                                  "url": ""
+                                },
+                                {
+                                  "label": "Hybrid",
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Hybrid"
+                                },
+                                {
+                                  "label": "Sativa",
+                                  "url": ""
                                 }
                               ]
                             }
@@ -318,12 +427,12 @@
             {
               "label": "Nerve",
               "headline": "Do you prefer to Eat or Smoke a product?",
-              "description": "Eat = Gummys, Baked Goods and Beverages.\nSmoke = Carts, Disposables, Flower and Prerolls.",
+              "description": "Eat: Gummys, Baked Goods and Beverages.\nSmoke: Carts, Disposables, Flower and Prerolls.",
               "children": [
                 {
                   "label": "Eat",
                   "headline": "Edible Products:",
-                  "description": "Gummy = Cannabis gummy products are defined as edible, chewable confections infused with cannabis.\nBaked Goods = Cannabis baked goods are defined as edible products such as Chocolate Bars, Chocolate Covered Oreos, Cookies, Popcorn, Pretzels, Puppy Chow and Toffee infused with cannabis.\nBeverage = Cannabis beverage products are liquids, such as seltzers, sodas, teas, or shooters, infused with cannabis.",
+                  "description": "Gummy: Cannabis gummy products are defined as edible, chewable confections infused with cannabis.\nBaked Goods: Cannabis baked goods are defined as edible products such as Chocolate Bars, Chocolate Covered Oreos, Cookies, Popcorn, Pretzels, Puppy Chow and Toffee infused with cannabis.\nBeverage: Cannabis beverage products are liquids, such as seltzers, sodas, teas, or shooters, infused with cannabis.",
                   "children": [
                     {
                       "label": "Gummy",
@@ -347,7 +456,7 @@
                     {
                       "label": "Beverage",
                       "headline": "Do you prefer 5MG per can, 10MG Per can or a shooter?",
-                      "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.\nShooter = Cannabis shooter products are defined as small, concentrated, ready-to-drink beverages infused with cannabis.",
+                      "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.\nShooter: Cannabis shooter products are defined as small, concentrated, ready-to-drink beverages infused with cannabis.",
                       "children": [
                         {
                           "label": "5MG Beverage",
@@ -368,12 +477,12 @@
                 {
                   "label": "Smoke",
                   "headline": "Smokable Products:",
-                  "description": "Cart = Is a small glass tube containing oil of the plant's active medicinal ingredients.  The cartridge attaches to a vape pen.\nDisposable = Disposable vapes are single-use devices that come pre-filled with cannabis extract.\nFlower = Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
+                  "description": "Cart: Is a small glass tube containing oil of the plant's active medicinal ingredients.  The cartridge attaches to a vape pen.\nDisposable: Disposable vapes are single-use devices that come pre-filled with cannabis extract.\nFlower: Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
                   "children": [
                     {
                       "label": "Cart",
                       "headline": "Cart Products:",
-                      "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                      "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                       "children": [
                         {
                           "label": "Indica",
@@ -392,7 +501,7 @@
                     {
                       "label": "Disposable",
                       "headline": "Disposable Products:",
-                      "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                      "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                       "children": [
                         {
                           "label": "Indica",
@@ -411,42 +520,73 @@
                     {
                       "label": "Flower",
                       "headline": "Preroll or Flower?",
-                      "description": "Preroll = Cannabis pre-rolls are, by definition, pre-packaged, ready-to-smoke joints or blunts prepared by dispensaries or cultivators, containing ground cannabis flower in papers with a filter tip.\nFlower = Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
+                      "description": "Preroll: Cannabis pre-rolls are, by definition, pre-packaged, ready-to-smoke joints or blunts prepared by dispensaries or cultivators, containing ground cannabis flower in papers with a filter tip.\nFlower: Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
                       "children": [
                         {
                           "label": "Preroll",
                           "headline": "Preroll Products:",
-                          "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                           "children": [
                             {
                               "label": "Indica",
-                              "url": "https://strainsoftheearth.com/shop/search/?q=preroll&order=-inserted_at"
+                              "url": ""
+                            },
+                            {
+                              "label": "Hybrid",
+                              "url": ""
+                            },
+                            {
+                              "label": "Sativa",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Sativa"
                             }
                           ]
                         },
                         {
                           "label": "Flower",
-                          "headline": "3.5 Gram or 7 Grams?",
+                          "headline": "3.5 Grams, 4 Grams, 7 Grams or 14 Grams?",
                           "children": [
                             {
                               "label": "3.5 Grams",
-                              "headline": "3.5 Grams Products:",
-                              "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                              "headline": "3.5 Gram Products:",
+                              "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                               "children": [
                                 {
                                   "label": "Indica",
                                   "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Indica%2CIndica+Dominant"
                                 },
                                 {
+                                  "label": "Hybrid",
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Hybrid"
+                                },
+                                {
                                   "label": "Sativa",
-                                  "url": "https://strainsoftheearth.com/shop/products/native-cuts-676251/thc-flower/nc-flower-35g-butters-7399150/?order=-inserted_at=-inserted_at"
+                                  "url": ""
+                                }
+                              ]
+                            },
+                            {
+                              "label": "4 Grams",
+                              "headline": "4 Gram Products:",
+                              "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                              "children": [
+                                {
+                                  "label": "Indica",
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Indica"
+                                },
+                                {
+                                  "label": "Hybrid",
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Hybrid"
+                                },
+                                {
+                                  "label": "Sativa",
+                                  "url": ""
                                 }
                               ]
                             },
                             {
                               "label": "7 Grams",
-                              "headline": "7 Grams Products:",
-                              "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                              "headline": "7 Gram Products:",
+                              "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                               "children": [
                                 {
                                   "label": "Indica",
@@ -455,6 +595,29 @@
                                 {
                                   "label": "Hybrid",
                                   "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=7gram&type=Hybrid"
+                                },
+                                {
+                                  "label": "Sativa",
+                                  "url": ""
+                                }
+                              ]
+                            },
+                            {
+                              "label": "14 Grams",
+                              "headline": "14 Gram Products:",
+                              "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                              "children": [
+                                {
+                                  "label": "Indica",
+                                  "url": ""
+                                },
+                                {
+                                  "label": "Hybrid",
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Hybrid"
+                                },
+                                {
+                                  "label": "Sativa",
+                                  "url": ""
                                 }
                               ]
                             }
@@ -471,12 +634,12 @@
         {
           "label": "Sleep Aid",
           "headline": "Do you prefer to Eat or Smoke a product?",
-          "description": "Eat = Gummys, Baked Goods and Beverages.\nSmoke = Carts, Disposables, Flower and Prerolls.",
+          "description": "Eat: Gummys, Baked Goods and Beverages.\nSmoke: Carts, Disposables, Flower and Prerolls.",
           "children": [
             {
               "label": "Eat",
               "headline": "Edible Products:",
-              "description": "Gummy = Cannabis gummy products are defined as edible, chewable confections infused with cannabis.\nBaked Goods = Cannabis baked goods are defined as edible products such as Chocolate Bars, Chocolate Covered Oreos, Cookies, Popcorn, Pretzels, Puppy Chow and Toffee infused with cannabis.\nBeverage = Cannabis beverage products are liquids, such as seltzers, sodas, teas, or shooters, infused with cannabis.",
+              "description": "Gummy: Cannabis gummy products are defined as edible, chewable confections infused with cannabis.\nBaked Goods: Cannabis baked goods are defined as edible products such as Chocolate Bars, Chocolate Covered Oreos, Cookies, Popcorn, Pretzels, Puppy Chow and Toffee infused with cannabis.\nBeverage: Cannabis beverage products are liquids, such as seltzers, sodas, teas, or shooters, infused with cannabis.",
               "children": [
                 {
                   "label": "Gummy",
@@ -500,7 +663,7 @@
                 {
                   "label": "Beverage",
                   "headline": "Do you prefer 5MG per can, 10MG Per can or a shooter?",
-                  "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.\nShooter = Cannabis shooter products are defined as small, concentrated, ready-to-drink beverages infused with cannabis.",
+                  "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.\nShooter: Cannabis shooter products are defined as small, concentrated, ready-to-drink beverages infused with cannabis.",
                   "children": [
                     {
                       "label": "5MG Beverage",
@@ -521,12 +684,12 @@
             {
               "label": "Smoke",
               "headline": "Smokable Products:",
-              "description": "Cart = Is a small glass tube containing oil of the plant's active medicinal ingredients.  The cartridge attaches to a vape pen.\nDisposable = Disposable vapes are single-use devices that come pre-filled with cannabis extract.\nFlower = Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
+              "description": "Cart: Is a small glass tube containing oil of the plant's active medicinal ingredients.  The cartridge attaches to a vape pen.\nDisposable: Disposable vapes are single-use devices that come pre-filled with cannabis extract.\nFlower: Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
               "children": [
                 {
                   "label": "Cart",
                   "headline": "Cart Products:",
-                  "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                  "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                   "children": [
                     {
                       "label": "Indica",
@@ -545,7 +708,7 @@
                 {
                   "label": "Disposable",
                   "headline": "Disposable Products:",
-                  "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                  "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                   "children": [
                     {
                       "label": "Indica",
@@ -564,42 +727,73 @@
                 {
                   "label": "Flower",
                   "headline": "Preroll or Flower?",
-                  "description": "Preroll = Cannabis pre-rolls are, by definition, pre-packaged, ready-to-smoke joints or blunts prepared by dispensaries or cultivators, containing ground cannabis flower in papers with a filter tip.\nFlower = Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
+                  "description": "Preroll: Cannabis pre-rolls are, by definition, pre-packaged, ready-to-smoke joints or blunts prepared by dispensaries or cultivators, containing ground cannabis flower in papers with a filter tip.\nFlower: Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
                   "children": [
                     {
                       "label": "Preroll",
                       "headline": "Preroll Products:",
-                      "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                      "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                       "children": [
                         {
                           "label": "Indica",
-                          "url": "https://strainsoftheearth.com/shop/search/?q=preroll&order=-inserted_at"
+                          "url": ""
+                        },
+                        {
+                          "label": "Hybrid",
+                          "url": ""
+                        },
+                        {
+                          "label": "Sativa",
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Sativa"
                         }
                       ]
                     },
                     {
                       "label": "Flower",
-                      "headline": "3.5 Gram or 7 Grams?",
+                      "headline": "3.5 Grams, 4 Grams, 7 Grams or 14 Grams?",
                       "children": [
                         {
                           "label": "3.5 Grams",
-                          "headline": "3.5 Grams Products:",
-                          "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "headline": "3.5 Gram Products:",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                           "children": [
                             {
                               "label": "Indica",
                               "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Indica%2CIndica+Dominant"
                             },
                             {
+                              "label": "Hybrid",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Hybrid"
+                            },
+                            {
                               "label": "Sativa",
-                              "url": "https://strainsoftheearth.com/shop/products/native-cuts-676251/thc-flower/nc-flower-35g-butters-7399150/?order=-inserted_at=-inserted_at"
+                              "url": ""
+                            }
+                          ]
+                        },
+                        {
+                          "label": "4 Grams",
+                          "headline": "4 Gram Products:",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "children": [
+                            {
+                              "label": "Indica",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Indica"
+                            },
+                            {
+                              "label": "Hybrid",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Hybrid"
+                            },
+                            {
+                              "label": "Sativa",
+                              "url": ""
                             }
                           ]
                         },
                         {
                           "label": "7 Grams",
-                          "headline": "7 Grams Products:",
-                          "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "headline": "7 Gram Products:",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                           "children": [
                             {
                               "label": "Indica",
@@ -608,6 +802,29 @@
                             {
                               "label": "Hybrid",
                               "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=7gram&type=Hybrid"
+                            },
+                            {
+                              "label": "Sativa",
+                              "url": ""
+                            }
+                          ]
+                        },
+                        {
+                          "label": "14 Grams",
+                          "headline": "14 Gram Products:",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "children": [
+                            {
+                              "label": "Indica",
+                              "url": ""
+                            },
+                            {
+                              "label": "Hybrid",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Hybrid"
+                            },
+                            {
+                              "label": "Sativa",
+                              "url": ""
                             }
                           ]
                         }
@@ -622,12 +839,12 @@
         {
           "label": "Stress/Anxiety",
           "headline": "Do you prefer to Eat or Smoke a product?",
-          "description": "Eat = Gummys, Baked Goods and Beverages.\nSmoke = Carts, Disposables, Flower and Prerolls.",
+          "description": "Eat: Gummys, Baked Goods and Beverages.\nSmoke: Carts, Disposables, Flower and Prerolls.",
           "children": [
             {
               "label": "Eat",
               "headline": "Edible Products:",
-              "description": "Gummy = Cannabis gummy products are defined as edible, chewable confections infused with cannabis.\nBaked Goods = Cannabis baked goods are defined as edible products such as Chocolate Bars, Chocolate Covered Oreos, Cookies, Popcorn, Pretzels, Puppy Chow and Toffee infused with cannabis.\nBeverage = Cannabis beverage products are liquids, such as seltzers, sodas, teas, or shooters, infused with cannabis.",
+              "description": "Gummy: Cannabis gummy products are defined as edible, chewable confections infused with cannabis.\nBaked Goods: Cannabis baked goods are defined as edible products such as Chocolate Bars, Chocolate Covered Oreos, Cookies, Popcorn, Pretzels, Puppy Chow and Toffee infused with cannabis.\nBeverage: Cannabis beverage products are liquids, such as seltzers, sodas, teas, or shooters, infused with cannabis.",
               "children": [
                 {
                   "label": "Gummy",
@@ -651,7 +868,7 @@
                 {
                   "label": "Beverage",
                   "headline": "Do you prefer 5MG per can, 10MG Per can or a shooter?",
-                  "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.\nShooter = Cannabis shooter products are defined as small, concentrated, ready-to-drink beverages infused with cannabis.",
+                  "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.\nShooter: Cannabis shooter products are defined as small, concentrated, ready-to-drink beverages infused with cannabis.",
                   "children": [
                     {
                       "label": "5MG Beverage",
@@ -672,12 +889,12 @@
             {
               "label": "Smoke",
               "headline": "Smokable Products:",
-              "description": "Cart = Is a small glass tube containing oil of the plant's active medicinal ingredients.  The cartridge attaches to a vape pen.\nDisposable = Disposable vapes are single-use devices that come pre-filled with cannabis extract.\nFlower = Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
+              "description": "Cart: Is a small glass tube containing oil of the plant's active medicinal ingredients.  The cartridge attaches to a vape pen.\nDisposable: Disposable vapes are single-use devices that come pre-filled with cannabis extract.\nFlower: Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
               "children": [
                 {
                   "label": "Cart",
                   "headline": "Cart Products:",
-                  "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                  "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                   "children": [
                     {
                       "label": "Indica",
@@ -696,7 +913,7 @@
                 {
                   "label": "Disposable",
                   "headline": "Disposable Products:",
-                  "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                  "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                   "children": [
                     {
                       "label": "Indica",
@@ -715,42 +932,73 @@
                 {
                   "label": "Flower",
                   "headline": "Preroll or Flower?",
-                  "description": "Preroll = Cannabis pre-rolls are, by definition, pre-packaged, ready-to-smoke joints or blunts prepared by dispensaries or cultivators, containing ground cannabis flower in papers with a filter tip.\nFlower = Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
+                  "description": "Preroll: Cannabis pre-rolls are, by definition, pre-packaged, ready-to-smoke joints or blunts prepared by dispensaries or cultivators, containing ground cannabis flower in papers with a filter tip.\nFlower: Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
                   "children": [
                     {
                       "label": "Preroll",
                       "headline": "Preroll Products:",
-                      "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                      "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                       "children": [
                         {
                           "label": "Indica",
-                          "url": "https://strainsoftheearth.com/shop/search/?q=preroll&order=-inserted_at"
+                          "url": ""
+                        },
+                        {
+                          "label": "Hybrid",
+                          "url": ""
+                        },
+                        {
+                          "label": "Sativa",
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Sativa"
                         }
                       ]
                     },
                     {
                       "label": "Flower",
-                      "headline": "3.5 Gram or 7 Grams?",
+                      "headline": "3.5 Grams, 4 Grams, 7 Grams or 14 Grams?",
                       "children": [
                         {
                           "label": "3.5 Grams",
-                          "headline": "3.5 Grams Products:",
-                          "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "headline": "3.5 Gram Products:",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                           "children": [
                             {
                               "label": "Indica",
                               "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Indica%2CIndica+Dominant"
                             },
                             {
+                              "label": "Hybrid",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Hybrid"
+                            },
+                            {
                               "label": "Sativa",
-                              "url": "https://strainsoftheearth.com/shop/products/native-cuts-676251/thc-flower/nc-flower-35g-butters-7399150/?order=-inserted_at=-inserted_at"
+                              "url": ""
+                            }
+                          ]
+                        },
+                        {
+                          "label": "4 Grams",
+                          "headline": "4 Gram Products:",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "children": [
+                            {
+                              "label": "Indica",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Indica"
+                            },
+                            {
+                              "label": "Hybrid",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Hybrid"
+                            },
+                            {
+                              "label": "Sativa",
+                              "url": ""
                             }
                           ]
                         },
                         {
                           "label": "7 Grams",
-                          "headline": "7 Grams Products:",
-                          "description": "Indica = Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid = An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa = Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "headline": "7 Gram Products:",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
                           "children": [
                             {
                               "label": "Indica",
@@ -759,6 +1007,29 @@
                             {
                               "label": "Hybrid",
                               "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=7gram&type=Hybrid"
+                            },
+                            {
+                              "label": "Sativa",
+                              "url": ""
+                            }
+                          ]
+                        },
+                        {
+                          "label": "14 Grams",
+                          "headline": "14 Gram Products:",
+                          "description": "Indica: Higher percentage of indica genetics, often used for relaxing, full-body effects.\nHybrid: An even mix of both, aiming for a harmonious blend of mental and physical effects.\nSativa: Higher percentage of sativa genetics, usually more energizing and mentally stimulating.",
+                          "children": [
+                            {
+                              "label": "Indica",
+                              "url": ""
+                            },
+                            {
+                              "label": "Hybrid",
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Hybrid"
+                            },
+                            {
+                              "label": "Sativa",
+                              "url": ""
                             }
                           ]
                         }
@@ -779,16 +1050,20 @@
         {
           "label": "Recreation",
           "headline": "Edible products are currently available.",
-          "description": "Eat = Gummys.",
+          "description": "Eat: Gummys and Tinctures.",
           "children": [
             {
               "label": "Eat",
               "headline": "Edible Products:",
-              "description": "Gummy = Gummy products are defined as edible, chewable confections infused with CDB/CBG/CBN.",
+              "description": "Gummy: Gummy products are defined as edible, chewable confections infused with CDB/CBG/CBN.\nTinctures: A CBD tincture is a concentrated hemp extract thats blended with a carrier oil, such as MCT or hemp seed oil. The result is a liquid formula that can be taken by dropper, added into drinks, or even mixed with skincare products.",
               "children": [
                 {
                   "label": "Gummy",
                   "url": "https://strainsoftheearth.com/shop/products/nebula-676358/low-dose-gummies/nebula-tropical-twist-cbd-cbg-gummies-25mg-cbd-25mg-cbg-7251179/?order=-inserted_at&cbreadcrumb=eyJjb252ZXJzaW9uX29yaWdpbiI6InJlY29tbWVuZGF0aW9uIiwidWlfem9uZSI6ImNhdGVnb3J5LWxvdy1kb3NlLWd1bW1pZXMudXNlci10b3AtcGlja3MiLCJwcm9kdWN0X3BsYWNlbWVudF9jYW1wYWlnbl9pZCI6bnVsbH0%3D"
+                },
+                {
+                  "label": "Tincture",
+                  "url": "https://strainsoftheearth.com/shop/categories/tincture/?order=-inserted_at"
                 },
                 {
                   "label": "Baked Goods",
@@ -817,7 +1092,7 @@
             {
               "label": "Smoke",
               "headline": "Smokable Products:",
-              "description": "Cart = Is a small glass tube containing oil of the plant's active medicinal ingredients.  The cartridge attaches to a vape pen.\nDisposable = Disposable vapes are single-use devices that come pre-filled with cannabis extract.\nFlower = Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
+              "description": "Cart: Is a small glass tube containing oil of the plant's active medicinal ingredients.  The cartridge attaches to a vape pen.\nDisposable: Disposable vapes are single-use devices that come pre-filled with cannabis extract.\nFlower: Cannabis flower, often called bud, refers to the smokable, harvested, and dried female reproductive part of the cannabis plant.",
               "children": [
                 {
                   "label": "Cart",
@@ -916,7 +1191,7 @@
             {
               "label": "Muscle",
               "headline": "Do you prefer a Topical or to Eat a product?",
-              "description": "Topical = (THC/CBD) lotions, creams, salves, balms, and sprays designed for direct application to the skin to provide localized relief for pain, inflammation, and skin conditions. They act on skin cannabinoid receptors, typically without entering the bloodstream or inducing psychoactive effects.\nEat = Gummys.",
+              "description": "Topical: (THC/CBD) lotions, creams, salves, balms, and sprays designed for direct application to the skin to provide localized relief for pain, inflammation, and skin conditions. They act on skin cannabinoid receptors, typically without entering the bloodstream or inducing psychoactive effects.\nEat: Gummys and Tinctures.",
               "children": [
                 {
                   "label": "Topical",
@@ -925,11 +1200,15 @@
                 {
                   "label": "Eat",
                   "headline": "Edible Products:",
-                  "description": "Gummy = Gummy products are defined as edible, chewable confections infused with CDB/CBG/CBN.",
+                  "description": "Gummy: Gummy products are defined as edible, chewable confections infused with CDB/CBG/CBN.\nTinctures: A CBD tincture is a concentrated hemp extract thats blended with a carrier oil, such as MCT or hemp seed oil. The result is a liquid formula that can be taken by dropper, added into drinks, or even mixed with skincare products.",
                   "children": [
                     {
                       "label": "Gummy",
                       "url": "https://strainsoftheearth.com/shop/products/nebula-676358/low-dose-gummies/nebula-tropical-twist-cbd-cbg-gummies-25mg-cbd-25mg-cbg-7251179/?order=-inserted_at&cbreadcrumb=eyJjb252ZXJzaW9uX29yaWdpbiI6InJlY29tbWVuZGF0aW9uIiwidWlfem9uZSI6ImNhdGVnb3J5LWxvdy1kb3NlLWd1bW1pZXMudXNlci10b3AtcGlja3MiLCJwcm9kdWN0X3BsYWNlbWVudF9jYW1wYWlnbl9pZCI6bnVsbH0%3D"
+                    },
+                    {
+                      "label": "Tincture",
+                      "url": "https://strainsoftheearth.com/shop/categories/tincture/?order=-inserted_at"
                     },
                     {
                       "label": "Baked Goods",
@@ -1051,16 +1330,21 @@
             },
             {
               "label": "Nerve",
-              "headline": "Edible products are currently available:",
+              "headline": "Edible products are currently available.",
+              "description": "Eat: Gummys and Tinctures.",
               "children": [
                 {
                   "label": "Eat",
                   "headline": "Edible Products",
-                  "description": "Gummy = Gummy products are defined as edible, chewable confections infused with CDB/CBG/CBN.",
+                  "description": "Gummy: Gummy products are defined as edible, chewable confections infused with CDB/CBG/CBN.\nTinctures: A CBD tincture is a concentrated hemp extract thats blended with a carrier oil, such as MCT or hemp seed oil. The result is a liquid formula that can be taken by dropper, added into drinks, or even mixed with skincare products.",
                   "children": [
                     {
                       "label": "Gummy",
                       "url": "https://strainsoftheearth.com/shop/products/nebula-676358/low-dose-gummies/nebula-tropical-twist-cbd-cbg-gummies-25mg-cbd-25mg-cbg-7251179/?order=-inserted_at&cbreadcrumb=eyJjb252ZXJzaW9uX29yaWdpbiI6InJlY29tbWVuZGF0aW9uIiwidWlfem9uZSI6ImNhdGVnb3J5LWxvdy1kb3NlLWd1bW1pZXMudXNlci10b3AtcGlja3MiLCJwcm9kdWN0X3BsYWNlbWVudF9jYW1wYWlnbl9pZCI6bnVsbH0%3D"
+                    },
+                    {
+                      "label": "Tincture",
+                      "url": "https://strainsoftheearth.com/shop/categories/tincture/?order=-inserted_at"
                     },
                     {
                       "label": "Baked Goods",
@@ -1189,15 +1473,20 @@
         {
           "label": "Sleep Aid",
           "headline": "Edible products are currently available.",
+          "description": "Eat: Gummys and Tinctures.",
           "children": [
             {
               "label": "Eat",
               "headline": "Edible Products:",
-              "description": "Gummy = Gummy products are defined as edible, chewable confections infused with CDB/CBG/CBN.",
+              "description": "Gummy: Gummy products are defined as edible, chewable confections infused with CDB/CBG/CBN.\nTinctures: A CBD tincture is a concentrated hemp extract thats blended with a carrier oil, such as MCT or hemp seed oil. The result is a liquid formula that can be taken by dropper, added into drinks, or even mixed with skincare products.",
               "children": [
                 {
                   "label": "Gummy",
                   "url": "https://strainsoftheearth.com/shop/products/nebula-676358/low-dose-gummies/nebula-tropical-twist-cbd-cbg-gummies-25mg-cbd-25mg-cbg-7251179/?order=-inserted_at&cbreadcrumb=eyJjb252ZXJzaW9uX29yaWdpbiI6InJlY29tbWVuZGF0aW9uIiwidWlfem9uZSI6ImNhdGVnb3J5LWxvdy1kb3NlLWd1bW1pZXMudXNlci10b3AtcGlja3MiLCJwcm9kdWN0X3BsYWNlbWVudF9jYW1wYWlnbl9pZCI6bnVsbH0%3D"
+                },
+                {
+                  "label": "Tincture",
+                  "url": "https://strainsoftheearth.com/shop/categories/tincture/?order=-inserted_at"
                 },
                 {
                   "label": "Baked Goods",
@@ -1322,15 +1611,20 @@
         {
           "label": "Stress/Anxiety",
           "headline": "Edible products are currently available.",
+          "description": "Eat: Gummys and Tinctures.",
           "children": [
             {
               "label": "Eat",
               "headline": "Edible Products:",
-              "description": "Gummy = Gummy products are defined as edible, chewable confections infused with CDB/CBG/CBN.",
+              "description": "Gummy: Gummy products are defined as edible, chewable confections infused with CDB/CBG/CBN.\nTinctures: A CBD tincture is a concentrated hemp extract thats blended with a carrier oil, such as MCT or hemp seed oil. The result is a liquid formula that can be taken by dropper, added into drinks, or even mixed with skincare products.",
               "children": [
                 {
                   "label": "Gummy",
                   "url": "https://strainsoftheearth.com/shop/products/nebula-676358/low-dose-gummies/nebula-tropical-twist-cbd-cbg-gummies-25mg-cbd-25mg-cbg-7251179/?order=-inserted_at&cbreadcrumb=eyJjb252ZXJzaW9uX29yaWdpbiI6InJlY29tbWVuZGF0aW9uIiwidWlfem9uZSI6ImNhdGVnb3J5LWxvdy1kb3NlLWd1bW1pZXMudXNlci10b3AtcGlja3MiLCJwcm9kdWN0X3BsYWNlbWVudF9jYW1wYWlnbl9pZCI6bnVsbH0%3D"
+                },
+                {
+                  "label": "Tincture",
+                  "url": "https://strainsoftheearth.com/shop/categories/tincture/?order=-inserted_at"
                 },
                 {
                   "label": "Baked Goods",

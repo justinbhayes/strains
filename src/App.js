@@ -27,14 +27,14 @@ function App() {
         </a>
         <h1>Let us help you find a product.</h1>
       </header>
-      <main>
+      <section className="decision-tree-container">
         <DecisionTree
           data={productsDecisionTree}
           onProductClick={handleProductClick}
           resetTrigger={resetTrigger}
           onReset={handleStartOver}
         />
-      </main>
+      </section>
     </div>
   );
 }

@@ -5,7 +5,7 @@ function boldBeforeEquals(paragraph) {
   return paragraph
     .split("\n")
     .map((line) => {
-      const idx = line.indexOf(" =");
+      const idx = line.indexOf(":");
       if (idx !== -1) {
         const before = line.slice(0, idx).trim();
         const after = line.slice(idx);
@@ -128,11 +128,28 @@ function DecisionTree({ data, onProductClick, resetTrigger, onReset }) {
         </div>
       </div>
       {currentNode.description && (
-        <p
-          dangerouslySetInnerHTML={{
-            __html: boldBeforeEquals(currentNode.description),
-          }}
-        />
+        <p>
+          {currentNode.description.split("\n").map((line, idx) => {
+            const idxColon = line.indexOf(":");
+            if (idxColon !== -1) {
+              const before = line.slice(0, idxColon).trim();
+              const after = line.slice(idxColon);
+              return (
+                <span key={idx}>
+                  <b>{before}</b>
+                  {after}
+                  <br />
+                </span>
+              );
+            }
+            return (
+              <span key={idx}>
+                {line}
+                <br />
+              </span>
+            );
+          })}
+        </p>
       )}
     </>
   );

@@ -1,34 +1,44 @@
-.App-header {
-  background-color: #1f291a;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 10px 20px;
+#root {
+  .App-header {
+    background-color: #1f291a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
 
-  h1 {
-    color: white;
-    text-align: center;
+    h1 {
+      color: white;
+      font-family: inherit;
+      font-size: 2em;
+      font-weight: 700;
+      text-align: center;
+    }
   }
-}
-.App-logo {
-  height: 150px;
-  pointer-events: none;
-}
-main {
-  background-color: white;
-  padding: 40px 20px;
-  /* min-height: 100vh; */
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
+  .App-logo {
+    height: 150px;
+    pointer-events: none;
+  }
+  .decision-tree-container {
+    background-color: white;
+    padding: 40px 20px;
+    /* min-height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
 
-  h2 {
-    font-size: 1.4em;
-    text-align: center;
-  }
-  p {
-    white-space: pre-wrap;
+    h2 {
+      color: black;
+      font-family: inherit;
+      font-size: 1.4em;
+      font-weight: 700;
+      text-align: center;
+    }
+    p {
+      color: black;
+      margin: 16px 0;
+      white-space: pre-wrap;
+    }
   }
 }
