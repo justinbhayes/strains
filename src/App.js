@@ -34,6 +34,13 @@ function App() {
           resetTrigger={resetTrigger}
           onReset={handleStartOver}
         />
+        <p className="disclaimer">
+          This tool is for informational and educational purposes only and is
+          designed to help guide your selection based on your preferences and
+          general product information. It is not medical advice. Individual
+          cannabis experiences may vary. Always use responsibly and consult a
+          licensed healthcare professional with health-related questions.
+        </p>
       </section>
     </div>
   );
