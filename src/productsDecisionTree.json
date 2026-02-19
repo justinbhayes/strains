@@ -218,7 +218,7 @@
             {
               "label": "Muscle",
               "headline": "Do you prefer a Topical, to Eat or Smoke a product?",
-              "description": "Topical: (THC/CBD) lotions, creams, salves, balms, and sprays designed for direct application to the skin to provide localized relief for pain, inflammation, and skin conditions. They act on skin cannabinoid receptors, typically without entering the bloodstream or inducing psychoactive effects.\nEat: Gummys, Baked Goods and Beverages.\nSmoke: Carts, Disposables, Flower and Prerolls.",
+              "description": "Topical: (THC/CBD) lotions, creams, salves, balms, salt scrub, bath soak, lip balm, face mask, bath bomb, and sprays designed for direct application to the skin to provide localized relief for pain, inflammation, and skin conditions. They act on skin cannabinoid receptors, typically without entering the bloodstream or inducing psychoactive effects.\nEat: Gummys, Baked Goods and Beverages.\nSmoke: Carts, Disposables, Flower and Prerolls.",
               "children": [
                 {
                   "label": "Topical",
@@ -1191,7 +1191,7 @@
             {
               "label": "Muscle",
               "headline": "Do you prefer a Topical or to Eat a product?",
-              "description": "Topical: (THC/CBD) lotions, creams, salves, balms, and sprays designed for direct application to the skin to provide localized relief for pain, inflammation, and skin conditions. They act on skin cannabinoid receptors, typically without entering the bloodstream or inducing psychoactive effects.\nEat: Gummys and Tinctures.",
+              "description": "Topical: (THC/CBD) lotions, creams, salves, balms, salt scrub, bath soak, lip balm, face mask, bath bomb, and sprays designed for direct application to the skin to provide localized relief for pain, inflammation, and skin conditions. They act on skin cannabinoid receptors, typically without entering the bloodstream or inducing psychoactive effects.\nEat: Gummys, Baked Goods and Beverages.",
               "children": [
                 {
                   "label": "Topical",

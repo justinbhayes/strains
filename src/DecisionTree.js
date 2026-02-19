@@ -1,21 +1,6 @@
 import { useState, useEffect } from "react";
 import "./DecisionTree.scss";
 
-function boldBeforeEquals(paragraph) {
-  return paragraph
-    .split("\n")
-    .map((line) => {
-      const idx = line.indexOf(":");
-      if (idx !== -1) {
-        const before = line.slice(0, idx).trim();
-        const after = line.slice(idx);
-        return `<b>${before}</b>${after}`;
-      }
-      return line;
-    })
-    .join("<br/>");
-}
-
 /**
  * DecisionTree Component
  * Visualizes a hierarchical decision tree structure
