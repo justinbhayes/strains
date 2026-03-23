@@ -18,16 +18,20 @@
               "children": [
                 {
                   "label": "Gummy",
-                  "headline": "Do you prefer 5MG per Piece or 10MG Per Piece?",
+                  "headline": "Do you prefer 5MG per Piece, 10MG Per Piece or 25MG Per Piece?",
                   "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.",
                   "children": [
                     {
                       "label": "5MG",
-                      "url": "https://strainsoftheearth.com/shop/categories/low-dose-gummies/?order=-inserted_at"
+                      "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=20milligram%2C50milligram"
                     },
                     {
                       "label": "10MG",
-                      "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at"
+                      "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=100milligram"
+                    },
+                    {
+                      "label": "25MG",
+                      "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=500milligram"
                     }
                   ]
                 },
@@ -111,15 +115,15 @@
                       "children": [
                         {
                           "label": "Indica",
-                          "url": ""
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Indica"
                         },
                         {
                           "label": "Hybrid",
-                          "url": ""
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Hybrid"
                         },
                         {
                           "label": "Sativa",
-                          "url": ""
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Sativa"
                         }
                       ]
                     },
@@ -142,7 +146,7 @@
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Sativa"
                             }
                           ]
                         },
@@ -153,15 +157,15 @@
                           "children": [
                             {
                               "label": "Indica",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Indica"
                             },
                             {
                               "label": "Hybrid",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Hybrid"
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Sativa"
                             }
                           ]
                         },
@@ -180,7 +184,7 @@
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=7gram&type=Sativa"
                             }
                           ]
                         },
@@ -191,15 +195,15 @@
                           "children": [
                             {
                               "label": "Indica",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Indica"
                             },
                             {
                               "label": "Hybrid",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Hybrid"
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Sativa"
                             }
                           ]
                         }
@@ -231,16 +235,20 @@
                   "children": [
                     {
                       "label": "Gummy",
-                      "headline": "Do you prefer 5MG per Piece or 10MG Per Piece?",
+                      "headline": "Do you prefer 5MG per Piece, 10MG Per Piece or 25MG Per Piece?",
                       "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.",
                       "children": [
                         {
                           "label": "5MG",
-                          "url": "https://strainsoftheearth.com/shop/categories/low-dose-gummies/?order=-inserted_at"
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=20milligram%2C50milligram"
                         },
                         {
                           "label": "10MG",
-                          "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at"
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=100milligram"
+                        },
+                        {
+                          "label": "25MG",
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=500milligram"
                         }
                       ]
                     },
@@ -324,15 +332,15 @@
                           "children": [
                             {
                               "label": "Indica",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Indica"
                             },
                             {
                               "label": "Hybrid",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Hybrid"
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Sativa"
                             }
                           ]
                         },
@@ -355,7 +363,7 @@
                                 },
                                 {
                                   "label": "Sativa",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Sativa"
                                 }
                               ]
                             },
@@ -366,15 +374,15 @@
                               "children": [
                                 {
                                   "label": "Indica",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Indica"
                                 },
                                 {
                                   "label": "Hybrid",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Hybrid"
                                 },
                                 {
                                   "label": "Sativa",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Sativa"
                                 }
                               ]
                             },
@@ -393,7 +401,7 @@
                                 },
                                 {
                                   "label": "Sativa",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=7gram&type=Sativa"
                                 }
                               ]
                             },
@@ -404,15 +412,15 @@
                               "children": [
                                 {
                                   "label": "Indica",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Indica"
                                 },
                                 {
                                   "label": "Hybrid",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Hybrid"
                                 },
                                 {
                                   "label": "Sativa",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Sativa"
                                 }
                               ]
                             }
@@ -436,16 +444,20 @@
                   "children": [
                     {
                       "label": "Gummy",
-                      "headline": "Do you prefer 5MG per Piece or 10MG Per Piece?",
+                      "headline": "Do you prefer 5MG per Piece, 10MG Per Piece or 25MG Per Piece?",
                       "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.",
                       "children": [
                         {
                           "label": "5MG",
-                          "url": "https://strainsoftheearth.com/shop/categories/low-dose-gummies/?order=-inserted_at"
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=20milligram%2C50milligram"
                         },
                         {
                           "label": "10MG",
-                          "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at"
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=100milligram"
+                        },
+                        {
+                          "label": "25MG",
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=500milligram"
                         }
                       ]
                     },
@@ -529,15 +541,15 @@
                           "children": [
                             {
                               "label": "Indica",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Indica"
                             },
                             {
                               "label": "Hybrid",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Hybrid"
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Sativa"
                             }
                           ]
                         },
@@ -560,7 +572,7 @@
                                 },
                                 {
                                   "label": "Sativa",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Sativa"
                                 }
                               ]
                             },
@@ -571,15 +583,15 @@
                               "children": [
                                 {
                                   "label": "Indica",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Indica"
                                 },
                                 {
                                   "label": "Hybrid",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Hybrid"
                                 },
                                 {
                                   "label": "Sativa",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Sativa"
                                 }
                               ]
                             },
@@ -598,7 +610,7 @@
                                 },
                                 {
                                   "label": "Sativa",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=7gram&type=Sativa"
                                 }
                               ]
                             },
@@ -609,15 +621,15 @@
                               "children": [
                                 {
                                   "label": "Indica",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Indica"
                                 },
                                 {
                                   "label": "Hybrid",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Hybrid"
                                 },
                                 {
                                   "label": "Sativa",
-                                  "url": ""
+                                  "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Sativa"
                                 }
                               ]
                             }
@@ -643,16 +655,20 @@
               "children": [
                 {
                   "label": "Gummy",
-                  "headline": "Do you prefer 5MG per Piece or 10MG Per Piece?",
+                  "headline": "Do you prefer 5MG per Piece, 10MG Per Piece or 25MG Per Piece?",
                   "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.",
                   "children": [
                     {
                       "label": "5MG",
-                      "url": "https://strainsoftheearth.com/shop/categories/low-dose-gummies/?order=-inserted_at"
+                      "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=20milligram%2C50milligram"
                     },
                     {
                       "label": "10MG",
-                      "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at"
+                      "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=100milligram"
+                    },
+                    {
+                      "label": "25MG",
+                      "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=500milligram"
                     }
                   ]
                 },
@@ -736,15 +752,15 @@
                       "children": [
                         {
                           "label": "Indica",
-                          "url": ""
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Indica"
                         },
                         {
                           "label": "Hybrid",
-                          "url": ""
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Hybrid"
                         },
                         {
                           "label": "Sativa",
-                          "url": ""
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Sativa"
                         }
                       ]
                     },
@@ -767,7 +783,7 @@
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Sativa"
                             }
                           ]
                         },
@@ -778,15 +794,15 @@
                           "children": [
                             {
                               "label": "Indica",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Indica"
                             },
                             {
                               "label": "Hybrid",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Hybrid"
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Sativa"
                             }
                           ]
                         },
@@ -805,7 +821,7 @@
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=7gram&type=Sativa"
                             }
                           ]
                         },
@@ -816,15 +832,15 @@
                           "children": [
                             {
                               "label": "Indica",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Indica"
                             },
                             {
                               "label": "Hybrid",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Hybrid"
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Sativa"
                             }
                           ]
                         }
@@ -848,16 +864,20 @@
               "children": [
                 {
                   "label": "Gummy",
-                  "headline": "Do you prefer 5MG per Piece or 10MG Per Piece?",
+                  "headline": "Do you prefer 5MG per Piece, 10MG Per Piece or 25MG Per Piece?",
                   "description": "If you are unfamiliar with proper dosage we would highly recommend to start with the lower MG per piece to make sure you have a positive experience.",
                   "children": [
                     {
                       "label": "5MG",
-                      "url": "https://strainsoftheearth.com/shop/categories/low-dose-gummies/?order=-inserted_at"
+                      "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=20milligram%2C50milligram"
                     },
                     {
                       "label": "10MG",
-                      "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at"
+                      "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=100milligram"
+                    },
+                    {
+                      "label": "25MG",
+                      "url": "https://strainsoftheearth.com/shop/categories/thc-edibles/?order=-inserted_at&weight=500milligram"
                     }
                   ]
                 },
@@ -941,15 +961,15 @@
                       "children": [
                         {
                           "label": "Indica",
-                          "url": ""
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Indica"
                         },
                         {
                           "label": "Hybrid",
-                          "url": ""
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Hybrid"
                         },
                         {
                           "label": "Sativa",
-                          "url": ""
+                          "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=1gram&type=Sativa"
                         }
                       ]
                     },
@@ -972,7 +992,7 @@
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=3.5gram&type=Sativa"
                             }
                           ]
                         },
@@ -983,15 +1003,15 @@
                           "children": [
                             {
                               "label": "Indica",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Indica"
                             },
                             {
                               "label": "Hybrid",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Hybrid"
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=4gram&type=Sativa"
                             }
                           ]
                         },
@@ -1010,7 +1030,7 @@
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=7gram&type=Sativa"
                             }
                           ]
                         },
@@ -1021,15 +1041,15 @@
                           "children": [
                             {
                               "label": "Indica",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Indica"
                             },
                             {
                               "label": "Hybrid",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Hybrid"
                             },
                             {
                               "label": "Sativa",
-                              "url": ""
+                              "url": "https://strainsoftheearth.com/shop/categories/thc-flower/?order=-inserted_at&weight=14gram&type=Sativa"
                             }
                           ]
                         }
@@ -1059,7 +1079,7 @@
               "children": [
                 {
                   "label": "Gummy",
-                  "url": "https://strainsoftheearth.com/shop/products/nebula-676358/low-dose-gummies/nebula-tropical-twist-cbd-cbg-gummies-25mg-cbd-25mg-cbg-7251179/?order=-inserted_at&cbreadcrumb=eyJjb252ZXJzaW9uX29yaWdpbiI6InJlY29tbWVuZGF0aW9uIiwidWlfem9uZSI6ImNhdGVnb3J5LWxvdy1kb3NlLWd1bW1pZXMudXNlci10b3AtcGlja3MiLCJwcm9kdWN0X3BsYWNlbWVudF9jYW1wYWlnbl9pZCI6bnVsbH0%3D"
+                  "url": "https://strainsoftheearth.com/shop/categories/non-thc-edibles/?order=-inserted_at"
                 },
                 {
                   "label": "Tincture",
@@ -1204,7 +1224,7 @@
                   "children": [
                     {
                       "label": "Gummy",
-                      "url": "https://strainsoftheearth.com/shop/products/nebula-676358/low-dose-gummies/nebula-tropical-twist-cbd-cbg-gummies-25mg-cbd-25mg-cbg-7251179/?order=-inserted_at&cbreadcrumb=eyJjb252ZXJzaW9uX29yaWdpbiI6InJlY29tbWVuZGF0aW9uIiwidWlfem9uZSI6ImNhdGVnb3J5LWxvdy1kb3NlLWd1bW1pZXMudXNlci10b3AtcGlja3MiLCJwcm9kdWN0X3BsYWNlbWVudF9jYW1wYWlnbl9pZCI6bnVsbH0%3D"
+                      "url": "https://strainsoftheearth.com/shop/categories/non-thc-edibles/?order=-inserted_at"
                     },
                     {
                       "label": "Tincture",
@@ -1340,7 +1360,7 @@
                   "children": [
                     {
                       "label": "Gummy",
-                      "url": "https://strainsoftheearth.com/shop/products/nebula-676358/low-dose-gummies/nebula-tropical-twist-cbd-cbg-gummies-25mg-cbd-25mg-cbg-7251179/?order=-inserted_at&cbreadcrumb=eyJjb252ZXJzaW9uX29yaWdpbiI6InJlY29tbWVuZGF0aW9uIiwidWlfem9uZSI6ImNhdGVnb3J5LWxvdy1kb3NlLWd1bW1pZXMudXNlci10b3AtcGlja3MiLCJwcm9kdWN0X3BsYWNlbWVudF9jYW1wYWlnbl9pZCI6bnVsbH0%3D"
+                      "url": "https://strainsoftheearth.com/shop/categories/non-thc-edibles/?order=-inserted_at"
                     },
                     {
                       "label": "Tincture",
@@ -1482,7 +1502,7 @@
               "children": [
                 {
                   "label": "Gummy",
-                  "url": "https://strainsoftheearth.com/shop/products/nebula-676358/low-dose-gummies/nebula-tropical-twist-cbd-cbg-gummies-25mg-cbd-25mg-cbg-7251179/?order=-inserted_at&cbreadcrumb=eyJjb252ZXJzaW9uX29yaWdpbiI6InJlY29tbWVuZGF0aW9uIiwidWlfem9uZSI6ImNhdGVnb3J5LWxvdy1kb3NlLWd1bW1pZXMudXNlci10b3AtcGlja3MiLCJwcm9kdWN0X3BsYWNlbWVudF9jYW1wYWlnbl9pZCI6bnVsbH0%3D"
+                  "url": "https://strainsoftheearth.com/shop/categories/non-thc-edibles/?order=-inserted_at"
                 },
                 {
                   "label": "Tincture",
@@ -1620,7 +1640,7 @@
               "children": [
                 {
                   "label": "Gummy",
-                  "url": "https://strainsoftheearth.com/shop/products/nebula-676358/low-dose-gummies/nebula-tropical-twist-cbd-cbg-gummies-25mg-cbd-25mg-cbg-7251179/?order=-inserted_at&cbreadcrumb=eyJjb252ZXJzaW9uX29yaWdpbiI6InJlY29tbWVuZGF0aW9uIiwidWlfem9uZSI6ImNhdGVnb3J5LWxvdy1kb3NlLWd1bW1pZXMudXNlci10b3AtcGlja3MiLCJwcm9kdWN0X3BsYWNlbWVudF9jYW1wYWlnbl9pZCI6bnVsbH0%3D"
+                  "url": "https://strainsoftheearth.com/shop/categories/non-thc-edibles/?order=-inserted_at"
                 },
                 {
                   "label": "Tincture",
